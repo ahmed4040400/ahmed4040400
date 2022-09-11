@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed4040400&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed4040400" /> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/ahmed40404000](github.com/ahmed4040400)
+- 👨‍💻 All of my projects are available at [github.com/ahmed4040400](github.com/ahmed4040400)
 
 - 📫 How to reach me **ahmed4040400@gmail.com**
 
