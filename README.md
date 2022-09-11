@@ -4,9 +4,9 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy-downsized-large.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/29137416/189507179-6d33e875-b484-43eb-a6fa-9fbd63965f5a.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed4040400&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed4040400" /> </p>
+<p align="left"> ![image](https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy-downsized-large.gif) </p>
 
 - 👨‍💻 All of my projects are available at [github.com/ahmed40404000](github.com/ahmed4040400)
 
