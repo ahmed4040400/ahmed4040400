@@ -1,6 +1,8 @@
- 
+![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+
 <h1 align="center">Hi 👋, I'm Ahmed El-shentenawy</h1>
 <h3 align="center">A passionate full stack developer</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy-downsized-large.gif">
 
