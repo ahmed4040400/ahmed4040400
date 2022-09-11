@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed El-shentenawy</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+[<img align="right" src="https://miro.medium.com/max/1400/0*3N994lFVAwmVTsYJ.gif" width="300">](http://google.com.au/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed4040400&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed4040400" /> </p>
